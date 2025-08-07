@@ -1,6 +1,6 @@
 # InsightPro AI - Sistema de Análise de Negócios Inteligente
 
-![Banner](https://via.placeholder.com/1200x400/667eea/ffffff?text=InsightPro+AI+-+Análise+Inteligente+de+Negócios)
+![Banner](Screenshot_2025-08-07-20-13-59-055_com.brave.browser-edit.jpg
 
 Sistema portátil de análise de indicadores financeiros com IA para geração de insights estratégicos.
 
